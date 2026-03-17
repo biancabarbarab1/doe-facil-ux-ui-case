@@ -1,4 +1,4 @@
-# 📱 DoaFácil – UX/UI Case Study
+# 📱 Doe Fácil – UX/UI Case Study
 
 **UX/UI Case Study – Aplicativo mobile de doações com geolocalização**
 
@@ -8,7 +8,7 @@ Aplicativo mobile desenvolvido no Figma com foco em experiência do usuário, ge
 
 ## 🌎 Visão Geral
 
-O **DoaFácil** é um projeto de UX/UI Design criado com o objetivo de facilitar a conexão entre doadores e instituições de caridade.
+O **Doe Fácil** é um projeto de UX/UI Design criado com o objetivo de facilitar a conexão entre doadores e instituições de caridade.
 
 A proposta é tornar o processo de doação mais simples, rápido e confiável, utilizando geolocalização e uma interface intuitiva.
 
@@ -29,7 +29,7 @@ Essas barreiras reduzem o impacto social das doações.
 
 ## 💡 Solução
 
-O **DoaFácil** foi idealizado para:
+O **Doe Fácil** foi idealizado para:
 
 - Conectar doadores a instituições próximas via geolocalização  
 - Simplificar o processo de doação em poucos passos  
